@@ -5,11 +5,11 @@
 <hr />
 
 - 💻 **Programing** 💻
-  - OSS activity
-  - Web Application
+  - **OSS activity**
+  - **Web Application**
 - 🍴 **Eating** 🍴
-  - ramen
-  - green tea
+  - **ramen**
+  - **green tea**
 - 🌲 **Nature** 🌲
-  - traveling
-  - walking
+  - **traveling**
+  - **walking**

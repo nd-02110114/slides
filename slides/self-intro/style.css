@@ -32,6 +32,10 @@ li:before {
   margin-bottom: 30px;
 }
 
+.column > ul {
+  margin-left: 0px;
+}
+
 .sns-list {
   display: flex;
   justify-content: center;
@@ -45,14 +49,41 @@ li:before {
   }
 }
 
-.column > ul {
-  margin-left: 0px;
+.sns-list:hover > a {
+  opacity: 0.3;
+}
+
+.sns-list > a:hover {
+  opacity: 1;
+}
+
+.fa-home {
+  color: #2ecc71;
+}
+
+.fa-twitter {
+  color: #55acee;
+}
+
+.fa-github {
+  color: #333;
+}
+
+.fa-facebook {
+  color: #3b5998;
 }
 
 /* slide 02 */
 .slide02 {
   background-size: cover;
   background-image: url("../../common/images/newzealand.jpg");
+}
+
+.slide02 > ul > li {
+  color: black;
+  text-shadow: 0.1px 1px 0 #fff, -0.1px -0.1px 0 #fff, -0.1px 0.1px 0 #fff,
+    0.1px -0.1px 0 #fff, 0px 0.1px 0 #fff, 0 -0.1px 0 #fff, -0.1px 0 0 #fff,
+    0.1px 0 0 #fff;
 }
 
 /* slide 03 */
