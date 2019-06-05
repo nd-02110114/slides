@@ -7,7 +7,8 @@ module.exports = {
     thumbnail: "",
     siteName: "nissy's introduction",
     sns: ["twitter", "hatena"],
-    repositoryUrl: "https://github.com/nd-02110114/slides"
+    repositoryUrl:
+      "https://github.com/nd-02110114/slides/tree/master/slides/self-intro"
   },
   slide: {
     loop: true,

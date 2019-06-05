@@ -5,4 +5,4 @@ All slides can be written in Markdown or HTML.
 
 ## Content
 
-- [self introduction](https://github.com/nd-02110114/slides/tree/master/slides/self-intro)
+- [self introduction](https://nd-02110114.github.io/slides/self-intro/)
