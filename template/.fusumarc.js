@@ -1,16 +1,25 @@
 module.exports = {
   meta: {
-    author: "Daiki Nishikawa",
-    siteName: "nissy's slides",
-    repositoryUrl: "https://github.com/nd-02110114/slides",
-    sns: ["twitter", "hatena"],
+    author: "Nissy",
     title: "",
     name: "",
     description: "",
-    thumbnail: ""
+    thumbnail: "",
+    siteName: "",
+    sns: ["twitter", "hatena"],
+    repositoryUrl: "https://github.com/nd-02110114/slides"
   },
   slide: {
-    theme: "nebula"
+    loop: true,
+    sidebar: true,
+    targetBlank: true,
+    showIndex: true,
+    isVertical: false
+    // code: {
+    //   theme: 'default'
+    //   languages: ['javascript'],
+    //   plugins: ['line-numbers'],
+    // }
   },
   extends: {
     css: "style.css"
