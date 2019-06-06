@@ -79,20 +79,21 @@ li:before {
   background-image: url("../../common/images/newzealand.jpg");
 }
 
-.slide02 > ul > li {
-  color: black;
-  text-shadow: 0.1px 1px 0 #fff, -0.1px -0.1px 0 #fff, -0.1px 0.1px 0 #fff,
-    0.1px -0.1px 0 #fff, 0px 0.1px 0 #fff, 0 -0.1px 0 #fff, -0.1px 0 0 #fff,
-    0.1px 0 0 #fff;
+.slide02 > ul {
+  display: flex;
+  padding-top: 20px;
+  padding-right: 40px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 /* slide 03 */
 .card {
   display: flex;
-  height: 350px;
+  height: 100%;
   flex-direction: column;
   justify-content: center;
-  padding: 0px 30px;
+  padding: 20px 30px;
   align-items: center;
   border: 1px solid rgba(0, 0, 0, 0.3);
   border-radius: 10px;
@@ -107,7 +108,7 @@ li:before {
 }
 
 .card-content > p {
-  font-size: 20px;
+  font-size: 2rem;
 }
 
 .grid-hc:hover > .column-hc {
@@ -120,7 +121,7 @@ li:before {
 
 /* slide 05 */
 .card-img {
-  width: 100px;
+  width: 25%;
   border-radius: 10px;
   margin-bottom: 10px;
 }

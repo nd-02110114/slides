@@ -17,7 +17,7 @@
       </div>
       <div class="card-content">
         <h5>Skills</h5>
-        <p>Typescript, React Native (Expo), Apollo, Styled components, GraphQL</p>
+        <p>TypeScript, React Native (Expo), Apollo, Styled components, GraphQL</p>
       </div>
     </div>
   </div>

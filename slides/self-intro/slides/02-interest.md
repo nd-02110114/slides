@@ -1,13 +1,13 @@
 <!-- classes: slide02 -->
 
-## Interest & Love
+## Interest 🤗
 
 <hr />
 
 - 💻 **Programing** 💻
   - **OSS activity**
   - **Web Application**
-- 🍴 **Eating** 🍴
+- 🥢 **Eating** 🥢
   - **ramen**
   - **green tea**
 - 🌲 **Nature** 🌲
