@@ -11,7 +11,7 @@ I have studied chemistry × informatics
       <div class="card-content">
         <h5>Belongs</h5>
         <p>University of Tokyo, chemical system engineering</p>
-        <p>laboratory: Funatsu lab (
+        <p>laboratory: Funatsu & Kotera lab (
           <a href="http://funatsu.t.u-tokyo.ac.jp/en/home/" target="_blank">link</a>
           )
         </p>
