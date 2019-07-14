@@ -4,7 +4,7 @@
 
 <div class="grid">
   <div class="column">
-    <img src="../../../common/images/profile.jpg" alt="profile" class="profile-avatar">
+    <img src="../../../common/images/profile.jpg" alt="profile" class="profile-avatar" />
     <div class="sns-list">
       <a href="https://nissy-nd.hatenablog.com/" target="_blank">
         <i class="fas fa-home fa-2x"></i>

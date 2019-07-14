@@ -2,7 +2,7 @@
 
 # Thank you for watching 😊
 
-<hr style="height: 5px; color: #000000;" />
+<hr style={{ height: '5px', color: '#000000' }} />
 
 <div class="sns-list">
   <a href="https://nissy-nd.hatenablog.com/" target="_blank">

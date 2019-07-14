@@ -7,7 +7,7 @@
     <h4>Goofi Mobile</h4>
     <div class="card">
       <div class="card-content">
-        <img src="../../../common/images/goofi-icon.png" alt="goofi" class="card-img">
+        <img src="../../../common/images/goofi-icon.png" alt="goofi" class="card-img" />
         <p>Mobile app for searching good first issues in OSS</p>
         <p>
           <a href="https://github.com/nd-02110114/goofi-mobile/" target="_blank">

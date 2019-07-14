@@ -2,4 +2,4 @@
 
 # Self introduction
 
-<hr style="height: 5px; color: #000000;" />
+<hr style={{ height: '5px', color: '#000000' }} />

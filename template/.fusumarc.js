@@ -1,13 +1,10 @@
 module.exports = {
   meta: {
-    author: "Nissy",
-    title: "",
     name: "",
     description: "",
     thumbnail: "",
     siteName: "",
-    sns: ["twitter", "hatena"],
-    repositoryUrl: "https://github.com/nd-02110114/slides"
+    sns: ["twitter", "hatena"]
   },
   slide: {
     loop: true,
