@@ -1,7 +1,7 @@
 "use strict";
 
 const { join } = require("path");
-const { pdf } = require("fusuma");
+const pdf = require("@fusuma/task-pdf");
 
 const [, , output] = process.argv;
 

@@ -30,6 +30,7 @@
   "homepage": "https://github.com/nd-02110114/slides#readme",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
+    "@fusuma/task-pdf": "^1.15.0",
     "fs-extra": "^8.1.0",
     "fusuma": "^1.15.0",
     "gh-pages": "^2.1.1",
