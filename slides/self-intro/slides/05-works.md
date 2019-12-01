@@ -22,27 +22,25 @@
     </div>
   </div>
   <div class="column">
-    <h4>Open Source Software Activity</h4>
+    <h4>Babel plugin object to JSON parse</h4>
     <div class="card">
       <div class="card-content">
-        <h5>React Native</h5>
-        <p>I sent 36 PRs (
-          <a href="https://github.com/facebook/react-native/pulls?q=is%3Apr+author%3And-02110114+is%3Aclosed" target="_blank">PRs</a>
-          )
-        </p>
-      </div>
-      <div class="card-content">
-        <h5>js-primer (online book)</h5>
-        <p>I integrated PWA in this app (
-          <a href="https://efcl.info/2018/05/25/js-primer-offline/" target="_blank">
-            Details
+        <img src="../../../common/images/object-to-json-parse.png" alt="object-to-json-parse" class="card-img" />
+        <p>This plugin converts object literal to JSON.parse</p>
+        <p>
+          <a href="https://github.com/nd-02110114/babel-plugin-object-to-json-parse" target="_blank">
+            Repository
           </a>
-          )
         </p>
       </div>
       <div class="card-content">
-        <h5>Others</h5>
-        <p>TypeScript, Node.js, Expo...</p>
+        <h5>ChromeDevSummit introduction</h5>
+        <p> This plugin is inspired by&nbsp;
+          <a href="https://v8.dev/blog/cost-of-javascript-2019#json" target="_blank">
+            V8 blog
+          </a>
+        </p>
+        <p>Mathias Bynens introduced this plugin at ChromeDevSummit 2019</p>
       </div>
     </div>
   </div>
