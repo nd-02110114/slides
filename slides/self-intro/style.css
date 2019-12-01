@@ -120,8 +120,14 @@ li:before {
 }
 
 /* slide 05 */
-.card-img {
+.goofi-img {
   width: 25%;
   border-radius: 10px;
   margin-bottom: 10px;
+}
+
+.object-to-json-parse-img {
+  width: 80%;
+  border-radius: 5px;
+  margin-top: 10px;
 }

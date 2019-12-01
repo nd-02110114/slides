@@ -29,12 +29,12 @@
   },
   "homepage": "https://github.com/nd-02110114/slides#readme",
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.9.0",
+    "@fortawesome/fontawesome-free": "^5.11.2",
     "fs-extra": "^8.1.0",
-    "fusuma": "^1.12.1",
-    "gh-pages": "^2.0.1",
-    "husky": "^3.0.0",
-    "prettier": "^1.18.2",
+    "fusuma": "^1.15.0",
+    "gh-pages": "^2.1.1",
+    "husky": "^3.1.0",
+    "prettier": "^1.19.1",
     "pretty-quick": "^1.11.1"
   }
 }
