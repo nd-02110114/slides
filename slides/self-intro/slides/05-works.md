@@ -22,7 +22,7 @@
     </div>
   </div>
   <div class="column">
-    <h4>Babel plugin object to JSON parse</h4>
+    <h4>Babel plugin object to json parse</h4>
     <div class="card">
       <div class="card-content">
         <p>

@@ -9,4 +9,4 @@
   - I integrated PWA in this app and offline access enabled.
   - [Details](https://efcl.info/2018/05/25/js-primer-offline/)
 - **Chainer Chemistry : [PR](https://github.com/chainer/chainer-chemistry/pull/405)**
-  - implemented graph convolutional neural network model for inorganic crystal materials
+  - I implemented graph convolutional neural network model for inorganic crystal materials
