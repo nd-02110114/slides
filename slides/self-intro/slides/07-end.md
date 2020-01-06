@@ -14,7 +14,4 @@
   <a href="https://github.com/nd-02110114" target="_blank">
     <i class="fab fa-github fa-2x"></i>
   </a>
-  <a href="https://www.facebook.com/nissy02110114" target="_blank">
-    <i class="fab fa-facebook fa-2x"></i>
-  </a>
 </div>
